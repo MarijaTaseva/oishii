@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/oishii/static/js/main.e14e40b4.chunk.js",
-    "main.js.map": "/oishii/static/js/main.e14e40b4.chunk.js.map",
+    "main.js": "/oishii/static/js/main.e4ae5af2.chunk.js",
+    "main.js.map": "/oishii/static/js/main.e4ae5af2.chunk.js.map",
     "runtime-main.js": "/oishii/static/js/runtime-main.2f8ce3cc.js",
     "runtime-main.js.map": "/oishii/static/js/runtime-main.2f8ce3cc.js.map",
     "static/js/2.2671ec76.chunk.js": "/oishii/static/js/2.2671ec76.chunk.js",
     "static/js/2.2671ec76.chunk.js.map": "/oishii/static/js/2.2671ec76.chunk.js.map",
     "index.html": "/oishii/index.html",
-    "precache-manifest.e9e24b8f9580794e9d24ea4573103b94.js": "/oishii/precache-manifest.e9e24b8f9580794e9d24ea4573103b94.js",
+    "precache-manifest.20cde0795692538493f97350047b5c2a.js": "/oishii/precache-manifest.20cde0795692538493f97350047b5c2a.js",
     "service-worker.js": "/oishii/service-worker.js",
     "static/js/2.2671ec76.chunk.js.LICENSE.txt": "/oishii/static/js/2.2671ec76.chunk.js.LICENSE.txt",
     "static/media/mongo.png": "/oishii/static/media/mongo.09ed2051.png",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime-main.2f8ce3cc.js",
     "static/js/2.2671ec76.chunk.js",
-    "static/js/main.e14e40b4.chunk.js"
+    "static/js/main.e4ae5af2.chunk.js"
   ]
 }
